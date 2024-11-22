@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Imported assets
+Content/Megascans
+Content/MSPresets
+Content/PN_GroundFoliage
+Content/PN_MeadowFlowers
+Content/STF
